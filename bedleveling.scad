@@ -355,7 +355,7 @@ union() {
 
 
 // 3DTouch mount
-*union() {
+union() {
   difference() {
     union() {
       sensor(1);
